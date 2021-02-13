@@ -6,4 +6,4 @@ DEVELOPERS
 - I2ridan
 - GReNT
 
-Voda
+Vodka
