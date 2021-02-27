@@ -6,8 +6,8 @@ DEVELOPERS
 - I2ridan
 - GReNT
 
-Merge From Irridanushka
-
-New note...
-
-я Илья
+**Instruction manual**
+1) Loading
+```
+git clone https://github.com/gjhonic/stack_junior.git
+```
