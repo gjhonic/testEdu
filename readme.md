@@ -3,7 +3,5 @@
 DEVELOPERS
 - Gjhonic
 - Allgrenka
-- I2ridan
+- Iррridan
 - GReNT
-
-Vodka
